@@ -9,7 +9,7 @@ const Home = () => {
 
   return (
     <Layout>
-      <h1 className='text-blue-700'>Index</h1>
+      <h1 className='text-white'>Index</h1>
     </Layout>
   )
 }
